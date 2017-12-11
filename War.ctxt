@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\r\n\ Where\ the\ battle\ happens\r\n\ \r\n\ @author\ Sam\ Thornton\r\n\ @version\ 12.1.2017\r\n
+comment1.params=
+comment1.target=War()
+comment2.params=
+comment2.target=Creature\ addSpots()
+comment3.params=
+comment3.target=void\ createSides()
+comment4.params=
+comment4.target=void\ newbattle()
+numComments=5

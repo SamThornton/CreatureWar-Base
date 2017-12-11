@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Barlog
+comment0.text=\r\n\ Stronger\ subclass\ of\ Demon.\r\n\r\n\ @author\ Sam\ Thornton\r\n\ @version\ 12.01.2017\r\n
+comment1.params=
+comment1.target=Barlog()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Barlog\r\n
+comment2.params=
+comment2.target=int\ damage()
+comment2.text=\r\n\ \r\n\ Call\ Demons's\ damage\ method\ to\ allow\ a\ Barlog\ to\ deal\ a\ second\ attack.\r\n\ @return\ dmg\ total\ damage\r\n
+numComments=3

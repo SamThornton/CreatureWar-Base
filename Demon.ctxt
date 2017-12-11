@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Demon
+comment0.text=\r\n\ Demonic\ subclass\ of\ creature.\r\n\ \r\n\ @author\ Sam\ Thornton\ \r\n\ @version\ 12.01.2017\r\n
+comment1.params=
+comment1.target=Demon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Demon\r\n
+comment2.params=hp\ str
+comment2.target=Demon(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ Demon\ subclasses\r\n
+comment3.params=
+comment3.target=int\ damage()
+comment3.text=.\r\n\ 5%\ chance\ to\ do\ magical\ (doubled)\ damage\r\n\ @return\ dmg\r\n
+numComments=4
